@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @kajusenK
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C# in Unity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in all
+- 🌱 I’m currently learning C# in Unity and fullstack development
+- 💞️ I’m looking to collaborate on web development or game development 
+- 📫 How to reach me: per mail kajusen88@gmail.com
+- 😄 Pronouns: Potato
+- ⚡ Fun fact: I have Cats Caterry
 
 <!---
 kajusenK/kajusenK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
